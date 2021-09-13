@@ -11,6 +11,7 @@
 
 ## Описание процесса тестирования
 В качестве тестовых значений использовались данные: [Условия задачи №1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
+* [java код](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java/ "Исходный код")
 * сумма счета 2_000_000_000
 * перевод на счет (добавление) 500_000_000
 * увеличение баланса счета 2_500_000_000
